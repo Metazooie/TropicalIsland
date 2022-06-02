@@ -111,6 +111,10 @@
 		{
 			"Name": "PureWeb",
 			"Enabled": true
+		},
+		{
+			"Name": "ShallowWater",
+			"Enabled": true
 		}
 	]
 }
