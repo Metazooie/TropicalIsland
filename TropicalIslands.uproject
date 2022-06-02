@@ -3,6 +3,13 @@
 	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "TropicalIslands",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "DLSS",
@@ -96,6 +103,14 @@
 		{
 			"Name": "EditableMesh",
 			"Enabled": false
+		},
+		{
+			"Name": "PixelStreaming",
+			"Enabled": true
+		},
+		{
+			"Name": "PureWeb",
+			"Enabled": true
 		}
 	]
 }
